@@ -1,0 +1,66 @@
+.jumbotron {
+	background:url('https://i.ytimg.com/vi/7Oxz060iedY/maxresdefault.jpg') no-repeat center center; 
+	background-size: cover; 
+	height: 600px;
+} 
+
+.center{
+	text-align: center;
+}
+
+.title{
+	color: white;
+	text-shadow: 3px 3px #000;
+	margin-top: 200px;
+}
+hr{
+  text-shadow: 3px 3px #000;
+  
+}
+
+.bio{
+  font-size: 1.4em; 
+  padding: 0 0 20px 0;
+ }
+
+ul{
+  line-height: 30px;
+}
+
+.quote{
+  padding-top:20px;
+}
+blockquote{  
+  font-size: 2em;
+  }
+
+
+.footer{
+   height: 60px;
+   padding-top: 10px;
+   background: #000;
+   color: white;
+   opacity: 0.90;
+ }
+
+
+
+/*Media Queries*/
+
+@media (max-width:991px) { 
+ 
+
+ .video1,
+ .video2 {
+	padding-bottom: 15px;
+}
+
+}
+  
+
+
+
+
+
+
+
